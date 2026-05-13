@@ -1,2 +1,2 @@
-# simcheck
+# SimCheck
 Simulation health monitor
